@@ -1,0 +1,47 @@
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.csprojResolveAssemblyReference.cache
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.Form1.resources
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.Properties.Resources.resources
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.csproj.GenerateResource.Cache
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.csproj.CoreCompileInputs.cache
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.Form2.resources
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.csprojResolveAssemblyReference.cache
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.Form1.resources
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.Form2.resources
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.Properties.Resources.resources
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.csproj.GenerateResource.Cache
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.exe.config
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.exe.manifest
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.application
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.exe
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.pdb
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.TrustInfo.xml
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.exe.manifest
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.application
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.exe
+C:\Users\Ja Lo\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.pdb
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.exe
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.pdb
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.exe.config
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.exe.manifest
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.application
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.exe
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.pdb
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.TrustInfo.xml
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.exe.manifest
+C:\Users\AnonMonster\source\repos\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.application
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.exe.config
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.exe.manifest
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.application
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.exe
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\bin\Debug\JScreen.pdb
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.csprojResolveAssemblyReference.cache
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.Form1.resources
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.Form2.resources
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.Properties.Resources.resources
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.csproj.GenerateResource.Cache
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\miniPhotoshop.csproj.CoreCompileInputs.cache
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.TrustInfo.xml
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.exe.manifest
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.application
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.exe
+C:\Users\AnonMonster\Desktop\miniPhotoshop\miniPhotoshop\obj\Debug\JScreen.pdb
